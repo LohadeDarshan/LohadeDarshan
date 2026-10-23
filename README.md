@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m a System Administrator at SDS Software Pvt. Ltd. and an aspiring DevOps Engineer with hands-on experience in Linux administration, AWS cloud, and automation. I work with tools like Docker, Kubernetes, Jenkins, and Ansible to build and optimize CI/CD pipelines. Passionate about learning, automation, and delivering reliable, scalable infrastructure.<br><br>🔧 Tech Stack<br><br>OS: RHEL, Ubuntu<br><br>Cloud: AWS<br><br>DevOps: Docker, Kubernetes, Jenkins, Ansible, Terraform<br><br>Scripting: Bash<br><br>Certifications: RHCSA, RHCE, AWS Cloud Practitioner
+I’m a System Administrator at SDS Software Pvt. Ltd. and an aspiring DevOps Engineer with hands-on experience in Linux administration, AWS cloud, and automation. I work with tools like Docker, Kubernetes, Jenkins, and Ansible to build and optimize CI/CD pipelines. Passionate about learning, automation, and delivering reliable, scalable infrastructure.<br><br>🔧 Tech Stack<br><br>OS: RHEL, Ubuntu<br><br>Cloud: AWS, DigitalOcean<br><br>DevOps: Docker, Kubernetes, Jenkins, Ansible, Terraform, Git, GitHub, SonarQube, CI/CD<br><br>Scripting: Bash<br><br>Certifications: RHCSA, RHCE, AWS Certified Solutions Architect – Associate
 
 
 ## 🌐 Socials:
